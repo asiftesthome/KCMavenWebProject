@@ -36,7 +36,7 @@
     <issueManagement>
         <system>GitHub</system>
         <url>https://github.com/KCTechnologies/Maven-Web-Project/issues</url>
-    </issueManagement>
+    </issueManagement> 
 	
 	
   <dependencies>
